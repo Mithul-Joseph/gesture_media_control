@@ -40,6 +40,7 @@ I then used open-cv to retrieve the images from the webcam. These images were re
 ## How to run?
 
 - Install the requirements from the requirements file.
+- Train the model using teachable machine.
 - Open [YouTube](https://www.youtube.com/).
 - Play a video of your choice.
 - Run the program and switch back to the YouTube window.
