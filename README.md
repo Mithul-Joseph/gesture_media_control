@@ -1,6 +1,6 @@
 # Gesture control media player using Machine Learning
 
-This project aims at controlling media player in YouTube using hand gestures. 
+This project aims at controlling media player in YouTube using hand gestures. I have used one gesture for play/pause music and another one for playing the next song.
 
 ## Demo
 First let's see how this works (the fun part😅).  
@@ -46,3 +46,7 @@ I then used open-cv to retrieve the images from the webcam. These images were re
 - Run the program and switch back to the YouTube window.
 - Use gestures to control the media.
 - To quit: switch to the window opened by the program. Press ‘q’ on your keyboard.
+
+## Future works
+- expanding to include additional features like going back to the previous song.
+- increasing/decreasing the volume.
